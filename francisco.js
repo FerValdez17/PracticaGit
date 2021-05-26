@@ -1,0 +1,1 @@
+let practica = [fran, fede, fer, fran]
